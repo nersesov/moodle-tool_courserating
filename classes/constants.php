@@ -59,7 +59,7 @@ class constants {
     const SETTING_SHOWUSERNAMES_DEFAULT = 1;
 
     /** @var int */
-    const SHOWUSERNAMES_PERCOURSE = 2;
+    const SHOWUSERNAMES_PERCOURSE = 2; // Added constant for per-course username visibility.
 
     /** @var string */
     const SETTING_STARCOLOR_DEFAULT = '#e59819';
